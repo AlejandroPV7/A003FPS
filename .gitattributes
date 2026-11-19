@@ -1,0 +1,16 @@
+# Unity YAML
+*.unity text eol=crlf
+*.prefab text eol=crlf
+*.asset text eol=crlf
+*.mat text eol=crlf
+*.meta text eol=crlf
+*.cs text eol=crlf
+# Binaries
+*.blend binary
+*.fbx binary
+*.png binary
+*.jpg binary
+*.wav binary
+*.ogg binary
+*.ttf binary
+*.avif binary
